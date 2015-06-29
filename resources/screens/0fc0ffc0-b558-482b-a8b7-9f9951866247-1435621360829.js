@@ -49,7 +49,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/9c1a45a3-084c-4bdc-af9a-a625086a768e"
+                    "target": "screens/55e00d5e-7936-4b4b-b24a-07fdec5593ba"
                   },
                   "exectype": "serial",
                   "delay": 0

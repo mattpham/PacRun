@@ -20,7 +20,6 @@
             jQuery(".s-0fc0ffc0-b558-482b-a8b7-9f9951866247 .ui-page").overscroll({ showThumbs:true, direction:'vertical' });
             jQuery(".s-0fc0ffc0-b558-482b-a8b7-9f9951866247 #s-Panel_1").overscroll({ showThumbs:false, direction:'vertical' });
             jQuery(".s-0fc0ffc0-b558-482b-a8b7-9f9951866247 #s-Panel_2").overscroll({ showThumbs:false, direction:'multi' });
-            jQuery(".s-0fc0ffc0-b558-482b-a8b7-9f9951866247 #s-Panel_10").overscroll({ showThumbs:false, direction:'vertical' });
             jQuery(".s-dfb6c41e-c33b-4e01-a3e3-a7bf1fb1a229 .ui-page").overscroll({ showThumbs:true, direction:'vertical' });
             jQuery(".s-dfb6c41e-c33b-4e01-a3e3-a7bf1fb1a229 #s-Panel_1").overscroll({ showThumbs:false, direction:'vertical' });
             jQuery(".s-1432c19d-c891-4d09-9d9e-a0e9b91f9494 .ui-page").overscroll({ showThumbs:true, direction:'vertical' });
